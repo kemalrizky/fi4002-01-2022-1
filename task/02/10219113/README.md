@@ -19,7 +19,7 @@ Kemal Rizky Fadhlurrohman
 
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
++ Model lotka-volterra, karena saya belum memahami aplikasinya.
 
 
 ## materi yang sudah dipami
