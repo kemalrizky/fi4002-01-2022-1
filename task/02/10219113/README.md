@@ -1,13 +1,21 @@
-# 1021XABC
-NamaLengkap
+# 1021113
+Kemal Rizky Fadhlurrohman
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ Metode Euler
++ Metode Runge-Kutta orde 4
++ Penyelesaian Persamaan ODE (Ordinary Differential Equation)
++ Lotka-Volterra Model
++ Heat Difussion Model
++ Osilasi (Underdamped, Overdamped, Critically Damped)
++ Osilasi Terkopel
++ Transformasi Fourier
++ Monter Carlo
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
++ Penyelesaian persamaan diferensial untuk kasus osilasi, karena terdapat banyak aplikasi dari model osilasi ini dan ada beberapa kasus khusus osilasi yang menarik.
 
 
 ## materi paling membosankan
@@ -15,12 +23,15 @@ NamaLengkap
 
 
 ## materi yang sudah dipami
-+ Tuliskan materi-materi yang telah dipahami.
++ Penyelesaian persamaan diferensial menggunakan metode euler dan runge kutta.
++ Heat diffusion model
++ Monte Carlo
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
-
++ Penyelesaian model osilasi terkopel.
++ Fourier transform
++ Aplikasi dari model lotka-volterra
 
 ## contoh program
 + Buat suatu contoh program dalam Python dan sertakan di sini dengan hasil keluarnnya.
@@ -36,12 +47,13 @@ Hasilnya adalah
 
 
 ## cara perkuliahan
-+ Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
++ Cara kuliah sampai saat ini menggabungkan penjelasan teori dan metode hands on, namun masih lebih condong ke penjelasan teori karena keterbatasan ruangan. Metode kuliah yang menjadi 
+preferensi saya adalah metode hands on dengan langsung mengaplikasikan teori yang dijelaskan di kelas dalam bentuk coding.
 
 
 ## topik sistem fisis
-+ Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
++ Sistem partikel yang bergerak secara GLBB akibat suatu gaya tertentu. Menarik karena banyak aplikasinya dalam image processing.
 
 
 ## simulasi dan visualisasi
-+ Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pusataka Python yang perlu digunakan.
++ Simulasi dan visualisasi gerakan sistem granular yang dipengaruhi oleh medan gaya tertentu
